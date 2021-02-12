@@ -20,8 +20,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://img.alex0.dev/avatar.jpg
   name: Alex Web Status
-  introTitle: ""
-  introMessage: 
+  introTitle: "Status page for Alex Kuang's websites."
+  introMessage: I host websites on different platforms: GitHub/Coding.net pages, PHP shared hosting services, Vercel, Netlify, Firebase Hosting and VPS.
   navbar:
     - title: Status
       href: /
