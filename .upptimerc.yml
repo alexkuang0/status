@@ -10,7 +10,7 @@ sites:
     url: https://blog.alex0.dev
   - name: RSS
     url: https://rss.alex0.dev
-  - name: Cloud
+  - name: Cloud Sync
     url: https://cloud.alex0.dev
 
 status-website:
