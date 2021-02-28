@@ -22,9 +22,9 @@
     "url": "https://blog.alex0.dev",
     "icon": "https://favicons.githubusercontent.com/blog.alex0.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
@@ -34,6 +34,7 @@
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
+      "2021-02-28": 0,
       "2021-02-19": 46
     }
   },
