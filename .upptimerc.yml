@@ -6,8 +6,6 @@ repo: status # Your GitHub repository name
 sites:
   - name: Homepage
     url: https://alex0.dev
-  - name: Blog
-    url: https://blog.alex0.dev
   - name: RSS
     url: https://rss.alex0.dev
   - name: Cloud Sync
