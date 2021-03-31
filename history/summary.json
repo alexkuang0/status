@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 82,
-    "timeWeek": 262,
-    "timeMonth": 156,
-    "timeYear": 317,
+    "time": 314,
+    "timeDay": 161,
+    "timeWeek": 205,
+    "timeMonth": 157,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/rss.alex0.dev",
     "slug": "rss",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 400,
-    "timeDay": 363,
-    "timeWeek": 429,
-    "timeMonth": 358,
-    "timeYear": 400,
+    "uptimeYear": "99.82%",
+    "time": 401,
+    "timeDay": 462,
+    "timeWeek": 365,
+    "timeMonth": 361,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2021-02-17": 122
     }
@@ -43,20 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/cloud.alex0.dev",
     "slug": "cloud-sync",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.08%",
-    "time": 1552,
-    "timeDay": 997,
-    "timeWeek": 2328,
-    "timeMonth": 1683,
-    "timeYear": 1552,
-    "dailyMinutesDown": {
-      "2021-02-28": 427,
-      "2021-02-19": 46,
-      "2021-02-17": 122
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1546,
+    "timeDay": 1274,
+    "timeWeek": 2187,
+    "timeMonth": 1670,
+    "timeYear": 1546,
+    "dailyMinutesDown": {}
   }
 ]
