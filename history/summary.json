@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 102,
-    "timeWeek": 198,
-    "timeMonth": 162,
-    "timeYear": 307,
+    "time": 305,
+    "timeDay": 178,
+    "timeWeek": 212,
+    "timeMonth": 165,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/rss.alex0.dev",
     "slug": "rss",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 403,
-    "timeDay": 492,
-    "timeWeek": 418,
-    "timeMonth": 379,
-    "timeYear": 403,
+    "uptimeYear": "99.84%",
+    "time": 401,
+    "timeDay": 326,
+    "timeWeek": 413,
+    "timeMonth": 380,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2021-02-17": 122
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1554,
-    "timeDay": 1535,
-    "timeWeek": 1490,
-    "timeMonth": 1732,
-    "timeYear": 1554,
+    "time": 1555,
+    "timeDay": 1601,
+    "timeWeek": 1576,
+    "timeMonth": 1758,
+    "timeYear": 1555,
     "dailyMinutesDown": {}
   }
 ]
