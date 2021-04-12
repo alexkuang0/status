@@ -22,17 +22,17 @@
     "url": "https://rss.alex0.dev",
     "icon": "https://favicons.githubusercontent.com/rss.alex0.dev",
     "slug": "rss",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 396,
-    "timeDay": 285,
-    "timeWeek": 342,
-    "timeMonth": 378,
-    "timeYear": 396,
+    "time": 398,
+    "timeDay": 397,
+    "timeWeek": 363,
+    "timeMonth": 382,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2021-02-17": 122
     }
