@@ -43,19 +43,19 @@
     "url": "https://cloud.alex0.dev",
     "icon": "https://favicons.githubusercontent.com/cloud.alex0.dev",
     "slug": "cloud-sync",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 1537,
-    "timeDay": 1418,
-    "timeWeek": 1279,
+    "time": 1536,
+    "timeDay": 1401,
+    "timeWeek": 1289,
     "timeMonth": 1344,
-    "timeYear": 1537,
+    "timeYear": 1536,
     "dailyMinutesDown": {
-      "2021-07-05": 0,
+      "2021-07-05": 9,
       "2021-05-11": 61
     }
   }
